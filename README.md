@@ -3,7 +3,7 @@
 
 
 # Voyage Voyage - End Project 3 weeks - Coding Academy by Epitech
-### Fanny THIBERT - Vladimira GROSJEAN - Samira TAIBI
+### Samira TAIBI- Vladimira GROSJEAN - Fanny THIBERT
 => A website like "TripAdvisor" 
 
 # I - Dev part
@@ -26,8 +26,8 @@
     mkdir config
     cd config
     touch db.js => enter parameters to acces to the database
-    
-![ScreenShot](images/API_VoyagesTree.png)
+![image](https://user-images.githubusercontent.com/98088041/211883388-348c5725-2a14-4150-b4d7-beddcc83f571.png)
+
 
 ### Install dependencies :
 
@@ -71,15 +71,16 @@
   use db [world](https://sql.sh/514-liste-pays-csv-xml) for countries and cities 
         
  ### UML Diagram :
- 
-![ScreenShot](images/DiagrammeUML.png)
+![image](https://user-images.githubusercontent.com/98088041/211883453-07fa2eee-b430-47e0-832d-7e4bf947c89d.png)
+
         
 ### API documentation :
 
   * [swagger](http://localhost:3020/api-docs/#/)
 
 
-![ScreenShot](images/Swagger.jpg)
+![image](https://user-images.githubusercontent.com/98088041/211883527-de2db232-a1f8-4ae0-a4a2-cacc99a9e8bc.png)
+
 
 ### API Tripadvisor
         
@@ -93,8 +94,8 @@
         mkdir routes
         cd routes
         touch files.js...
-        
-![ScreenShot](images/TripAdvisorAPITree.png)
+        ![image](https://user-images.githubusercontent.com/98088041/211883584-94da3133-eb05-4062-8e83-965f0e334b6d.png)
+
   
 ## Create frontend :
 ### Create a vue.js app :
@@ -127,7 +128,8 @@
  
         mkdir 'folders'...components/views/router...
         touch 'files'...
-   ![ScreenShot](images/Front-vTree.png)
+   ![image](https://user-images.githubusercontent.com/98088041/211883628-fd8a1b3d-b72a-4443-881d-8f172e97758c.png)
+
    
    To manage uploading photos : use an image download website : [ImgBB](https://fr.imgbb.com/)
    
@@ -137,20 +139,37 @@
  
  ### User and Curator access :
  
-  ![ScreenShot](images/PlanUserCur.png)
+ ![image](https://user-images.githubusercontent.com/98088041/211883698-00dbaa01-0802-428d-9c23-71d27bcfdab8.png)
+
  
  ### Admin access :
              
-   ![ScreenShot](images/PlanDev.png)
- 
-![ScreenShot](images/P1.png)
-![ScreenShot](images/P2.png)
-![ScreenShot](images/P3.png)
-![ScreenShot](images/P4.png)
-![ScreenShot](images/P5.png)
-![ScreenShot](images/P6.png)
-![ScreenShot](images/P7.png)
-![ScreenShot](images/P8.png)
-![ScreenShot](images/P9.png)
+![image](https://user-images.githubusercontent.com/98088041/211883735-e10b4d7f-f180-4f67-8666-ada469cc976f.png)
+
+ Home page
+![image](https://user-images.githubusercontent.com/98088041/211883797-dccf197c-a85a-4ee6-a386-91685660ff65.png)
+
+Login/register
+
+![image](https://user-images.githubusercontent.com/98088041/211883877-34c2e459-249c-49c9-a0b7-c353c6299956.png)
+
+
+Mailtrap 
+
+![image](https://user-images.githubusercontent.com/98088041/211883963-f8d9d1e2-ffcf-44e1-99ef-48c1e4f32f95.png)
+
+
+Profile page 
+
+![image](https://user-images.githubusercontent.com/98088041/211884184-6a7e36ad-3d7b-4173-9a27-f5f6bc08e0d1.png)
+
+
+All activities
+
+![image](https://user-images.githubusercontent.com/98088041/211884241-dd9ed805-98aa-4d9f-b880-43061b4c9a45.png)
+
+Most liked activities 
+
+![image](https://user-images.githubusercontent.com/98088041/211884351-01788cdb-2574-46bf-bc0f-4a9496b3ee06.png)
 
 
